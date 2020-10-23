@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">FIND YOUR PET</string>
+    <string-array name="pet_type_array">
+        <item>Cat</item>
+        <item>Dog</item>
+        <item>Bird</item>
+    </string-array>
+    <string-array name="pet_size_array">
+        <item>small</item>
+        <item>medium</item>
+        <item>large</item>
+    </string-array>
+    <string-array name="pet_age_array">
+        <item>baby</item>
+        <item>young</item>
+        <item>adult</item>
+        <item>senior</item>
+    </string-array>
+    <string-array name="pet_gender_array">
+        <item>Cat</item>
+        <item>Dog</item>
+    </string-array>
+</resources>
